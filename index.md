@@ -68,7 +68,7 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 Cuando hablamos de reprogramación todos pensamos en quitar más caballos de potencia al motor, pero no todo es potencia, una parte importante también es la fiabilidad y la durabilidad del motor. Nuestro Amigo Andrés de ASAP RACING es un especialista en todo lo que tiene que ver con el RX8. Añadimos aquí uno de sus videos donde nos explica los tipos de reprogramaciones que se le pueden hacer al motor para conseguir una mejor vida util de nuestro motor.
 No olvides darle un like y seguirlo para más video. Grande Andrés!
 
-[![Alt text](https://img.youtube.com/vi/yXYx2qZ8iJ8/0.jpg)](https://youtu.be/yXYx2qZ8iJ8)
+![](https://www.youtube.com/watch?v=yXYx2qZ8iJ8)
 
 # Problemas Frecuentes
 ## ¿Mi motor no arranca? ¿Motor Ahogado?
