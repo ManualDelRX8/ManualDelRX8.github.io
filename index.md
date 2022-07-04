@@ -71,6 +71,13 @@ No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahog
 Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
 
 [![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw)
+![MyVideo](http://www.youtube.com/watch?v=LR9fGpNLdrw)
+
+# this is a *markdown* document
+
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=LR9fGpNLdrw?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+with a **youtube** video embedded
 
 ## Problemas con la dirección asistida
 Tanto si notas la dirección rigida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehiculo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos electricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor electrico de dirección asistida.
