@@ -63,10 +63,27 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 
 ## Reprogramación ASAP
 ##
+
 # Problemas Frecuentes
+## ¿Mi motor no arranca? ¿Motor Ahogado?
+No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahogue y no arranque. Igual que ocurría antiguamente con motores de 2 tiempos.
+Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
+[https://youtu.be/LR9fGpNLdrw] (link)
+
 ## Problemas con la dirección asistida
+Tanto si notas la dirección rigida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehiculo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos electricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor electrico de dirección asistida.
+
 ## Amortiguadores
 ## Luz fallo motor encendida
+## Luz Airbags encendida
+## Mazda Postventa llamada a revisión
+### ¿Qué es una llamada a revisión? 
+Cuando los equipos de Mazda detectan un problema relacionado con la seguridad, regulaciones o emisiones en alguno de sus productos, se activa una llamada a revisión de Mazda. Los clientes son notificados por correo certificado tan rápido como se tiene conocimiento del problema para que puedan acudir cuanto antes, y únicamente, a un Servicio Autorizado Mazda a realizar la reparación correspondiente de forma totalmente gratuita.
+
+Si no estás segura de si tu coche está al día de sus campañas de revisión, puedes consultarlo en la siguiente web introduciendo el número de chasis de tu RX8.
+
+[https://www.mazda.es/posventa/llamadas-revision/] (link)
+
 ## Nivel de gases en la itv
 ## Bujías y Bobinas
 ## Arranque en frío y caliente
