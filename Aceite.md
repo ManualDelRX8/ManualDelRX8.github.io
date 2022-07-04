@@ -6,3 +6,8 @@ Para un uso de calle recomendamos un 10w40 o un 5w30 Semi sintectico de bajo res
 Para uso de Circuito recomendamos IDEMITSU 10W30`
 
 # Tablas de aceites válidos para RX-8
+
+|    **Idemitsu**    | Viscosidad      | Precio     |
+| -----------------: | --------------: | ---------: |
+|   Viscosidad media |     10W30       |   17'95€   |
+|   Viscosidad alta  |     20W50       |   18'95€   |
