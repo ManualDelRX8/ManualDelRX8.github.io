@@ -1,8 +1,9 @@
 
 # Motivacion
-En un grupo de personas que tenemos el famoso "Mazda RX-8", nos hemos encontrado con una larga problemática y desconocmiento del coche. Por eso decidimos hacerte esta web, para que así las personas que vayan a comprar uno o el que ya tenga uno y tenga dudas.
+Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconocmiento general que hay sobre dicho coche. Por eso decidimos hacer esta web para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
 # Mantenimientos
+
 ## Que aceite usar?
 ## Cada cuando se cambia el aceite?
 ## Adaptador Sohn y su mantenimiento
