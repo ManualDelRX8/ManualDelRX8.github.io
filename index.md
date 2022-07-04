@@ -63,6 +63,7 @@ Para la caja de cambios y diferencial recomendamos aceite 75w90 especificación 
 El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor del coche y un adapatador que deriba el suministro de la OMP del carter a dicho deposito externo. De esta manera conseguimos que no se consuma aceite del motor sino aceite del deposito externo, con lo que nos ahorramos estar mirando constantemente el nivel de aceite motor. Además conseguimos que la OMP funcine siempre con aceite limpio e impedimos que peuqeñas impurezas de dicho aceite del carter terminen entorpeciendo su funcionamiento. Se recomienda usar el mismo tipo de aceite en el Sohn del que se usa en el bloque motor.
 
 [![Alt text](https://img.youtube.com/vi/sNYOmLX3jAQ/0.jpg)](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
+![](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
 
 ## Reprogramación ASAP RACING
 Cuando hablamos de reprogramación todos pensamos en quitar más caballos de potencia al motor, pero no todo es potencia, una parte importante también es la fiabilidad y la durabilidad del motor. Nuestro Amigo Andrés de ASAP RACING es un especialista en todo lo que tiene que ver con el RX8. Añadimos aquí uno de sus videos donde nos explica los tipos de reprogramaciones que se le pueden hacer al motor para conseguir una mejor vida util de nuestro motor.
