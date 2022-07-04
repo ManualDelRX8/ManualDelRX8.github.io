@@ -8,8 +8,8 @@ baseurl: /
 
 repository: ManualDelRX8/ManualDelRX8.github.io
 #theme: jekyll-theme-basically-basic
-#theme: jekyll-theme-leap-day
-theme: jekyll-text-theme
+theme: jekyll-theme-leap-day
+#theme: jekyll-text-theme
 
 plugins:
   - jekyll-spaceship
