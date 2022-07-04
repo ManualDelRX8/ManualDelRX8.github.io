@@ -1,7 +1,11 @@
+# Manual del RX-8
 
 # Motivación
 Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconocimiento general que hay sobre dicho coche. Por eso decidimos hacer esta web a titulo informativo, para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
+# Indice
+
+- [Aceite](https://manualdelrx8.github.io/Aceite)
 
 # Preguntas frecuentes
 
