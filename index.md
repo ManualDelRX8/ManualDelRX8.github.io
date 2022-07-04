@@ -83,6 +83,7 @@ No hay nada más típico en un RX8 que la luz de fallo motor encendida. Eso y el
 Las causas más probables son una mala combustión por causa de bobinas y bujías o el catalizador que está en las últimas.
 Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil para saber el origen de dicho fallo.  Dejamos un par de enlaces para un lector de OBD y una app que te permite leer los errores que lanza la centralita del vehículo. La misma app te da un pequeña explicación de cual es la causa de la avería y además te permite buscar en Google información sobre dicho código de error.
 [OBD AMAZON](https://www.amazon.es/iLC-Inal%C3%A1mbrico-C%C3%B3digo-Escanear-Herramienta/dp/B01NAQ2878/ref=sr_1_1_sspa?keywords=lector+obd2&qid=1656952156&sprefix=lector+OBD%2Caps%2C99&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYQUM0SVVEM0RPTFYmZW5jcnlwdGVkSWQ9QTAyNDc3NzgzVTA5UktWSTVWV1FRJmVuY3J5cHRlZEFkSWQ9QTA0NDMwMDgxQ1A5MjEyRDFUUU8wJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
 [EJEMPLO APP MOVIL ANDROID](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)
 
 ## Nivel de gases en la itv (CATALIZADOR)
