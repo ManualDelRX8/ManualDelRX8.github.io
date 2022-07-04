@@ -4,8 +4,6 @@ Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar 
 
 
 
-
-#
 # Mantenimientos
 ## Que aceite usar?
 Esta es "la pregunta", la gran pregunta, la que tantas y tantas horas de discusiones nos ha traido. La caja de Pandora, el cajón de mierda....
