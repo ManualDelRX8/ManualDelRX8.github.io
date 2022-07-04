@@ -64,6 +64,7 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 
 [![Alt text](https://img.youtube.com/vi/sNYOmLX3jAQ/0.jpg)](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
 ![](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
+![](//www.youtube.com/watch?v=Ptk_1Dc2iPY?width=800&height=500)
 
 ## Reprogramación ASAP RACING
 Cuando hablamos de reprogramación todos pensamos en quitar más caballos de potencia al motor, pero no todo es potencia, una parte importante también es la fiabilidad y la durabilidad del motor. Nuestro Amigo Andrés de ASAP RACING es un especialista en todo lo que tiene que ver con el RX8. Añadimos aquí uno de sus videos donde nos explica los tipos de reprogramaciones que se le pueden hacer al motor para conseguir una mejor vida util de nuestro motor.
