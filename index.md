@@ -1,6 +1,6 @@
 
 # Motivacion
-Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconocmiento general que hay sobre dicho coche. Por eso decidimos hacer esta web para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
+Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconociento general que hay sobre dicho coche. Por eso decidimos hacer esta web para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
 
 
