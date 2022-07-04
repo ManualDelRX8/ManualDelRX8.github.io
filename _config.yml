@@ -1,6 +1,6 @@
 title: Manual del RX-8
 description: >- # this means to ignore newlines until "baseurl:"
-  Bienvenidos a la web para mantener al dia tu RX-8
+  Bienvenidos a la web para enterarte de como funciona tu coche!
 
 domain: ManualDelRX8.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://manualdelrx8.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
