@@ -64,15 +64,18 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 
 [![Alt text](https://img.youtube.com/vi/sNYOmLX3jAQ/0.jpg)](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
 
-## Reprogramación ASAP
+## Reprogramación ASAP RACING
+Cuando hablamos de reprogramación todos pensamos en quitar más caballos de potencia al motor, pero no todo es potencia, una parte importante también es la fiabilidad y la durabilidad del motor. Nuestro Amigo Andrés de ASAP RACING es un especialista en todo lo que tiene que ver con el RX8. Añadimos aquí uno de sus videos donde nos explica los tipos de reprogramaciones que se le pueden hacer al motor para conseguir una mejor vida util de nuestro motor.
+No olvides darle un like y seguirlo para más video. Grande Andrés!
+
+[![Alt text](https://img.youtube.com/vi/yXYx2qZ8iJ8/0.jpg)](https://youtu.be/yXYx2qZ8iJ8)
 
 # Problemas Frecuentes
 ## ¿Mi motor no arranca? ¿Motor Ahogado?
 No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahogue y no arranque. Igual que ocurría antiguamente con motores de 2 tiempos.
 Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
 
-<!--[![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw) -->
-![](https://www.youtube.com/watch?v=LR9fGpNLdrw)
+[![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw)
 
 ## Problemas con la dirección asistida
 Tanto si notas la dirección rigida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehiculo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos electricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor electrico de dirección asistida.
@@ -85,6 +88,7 @@ Otra pista es la altura visual desde la goma al pase de ruedas de la rueda. Lo n
 No hay nada más típico en un RX8 que la luz de fallo motor encendida. Eso y el chivato de la reserva de combustible. Lo segundo tiene fácil solución, ir a repostar. La luz de fallo motor es otra película…
 Las causas más probables son una mala combustión por causa de bobinas y bujías o el catalizador que está en las últimas.
 Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil para saber el origen de dicho fallo.  Dejamos un par de enlaces para un lector de OBD y una app que te permite leer los errores que lanza la centralita del vehículo. La misma app te da un pequeña explicación de cual es la causa de la avería y además te permite buscar en Google información sobre dicho código de error.
+
 [OBD AMAZON](https://www.amazon.es/iLC-Inal%C3%A1mbrico-C%C3%B3digo-Escanear-Herramienta/dp/B01NAQ2878/ref=sr_1_1_sspa?keywords=lector+obd2&qid=1656952156&sprefix=lector+OBD%2Caps%2C99&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYQUM0SVVEM0RPTFYmZW5jcnlwdGVkSWQ9QTAyNDc3NzgzVTA5UktWSTVWV1FRJmVuY3J5cHRlZEFkSWQ9QTA0NDMwMDgxQ1A5MjEyRDFUUU8wJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
 [EJEMPLO APP MOVIL ANDROID](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)
