@@ -14,7 +14,7 @@ Para uso de Circuito recomendamos IDEMITSU 10W30
 
 
 ## Cada cuando se cambia el aceite?
-Recomendamos el cambio de aceite entre los 5000 y 7000
+Recomendamos el cambio de aceite entre los 5000 y 7000 kilometros.
 
 ## Adaptador Sohn y su mantenimiento
 El adaptador Sohn se recomienda usar el mismo tipo de aceite que se usa en el bloque motor porque es posible que ambos aceites se acaben mezclando en el carter.
