@@ -4,7 +4,18 @@ Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar 
 
 # Preguntas frecuentes
 ##  ¿Es verdad que consume más aceite que una freidora?
-   
+Efectivamente este coche consume aceite y por diseño debe ser así.
+
+El aceite que se consume se utiliza para crear una fina película lubricante que sirve para sellar las cámaras de combustión, mantener la compresión del motor y evitar el desgaste de los rotores durante su funcionamiento. Este aceite se acaba quemando en las cámaras de combustión y por ello se va consumiendo.
+
+El consumo no es constante, sino que va en función de las rpm del motor (en función de lo que le pises al acelerador).
+
+Conducción suave y mixta, con largos recorridos: 1 litro cada 4.000 - 5.000 km
+Conducción mixta y deportiva ocasional: 1 litro cada 2500-3500 km
+Conducción deportiva frecuente: 1 litro cada 1500-2500 km
+Conducción extrema (exclusivamente racing): 1 litro cada 400-500 km  aprox.
+
+
 
 
 # Mantenimientos
