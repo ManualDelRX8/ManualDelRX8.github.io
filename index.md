@@ -67,6 +67,7 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 ## ¿Mi motor no arranca? ¿Motor Ahogado?
 No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahogue y no arranque. Igual que ocurría antiguamente con motores de 2 tiempos.
 Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
+
 [![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw)
 
 ## Problemas con la dirección asistida
