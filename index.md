@@ -1,7 +1,6 @@
-# Manual del RX-8
 
 # Motivacion
-Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconociento general que hay sobre dicho coche. Por eso decidimos hacer esta web para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
+Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconociento general que hay sobre dicho coche. Por eso decidimos hacer esta web a titulo informativo, para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
 
 # Preguntas frecuentes
@@ -71,19 +70,43 @@ No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahog
 Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
 
 [![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw)
-![MyVideo](http://www.youtube.com/watch?v=LR9fGpNLdrw)
-
-# this is a *markdown* document
-
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=LR9fGpNLdrw?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-with a **youtube** video embedded
 
 ## Problemas con la dirección asistida
 Tanto si notas la dirección rigida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehiculo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos electricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor electrico de dirección asistida.
 
 ## Amortiguadores
+Es común en estos coches que los amortiguadores traseros se estropeen más que los delanteros. Si notas que el coche de atrás se hunde, sobre todo  al meter gente atrás, y que en curvas rápidas con baches o cambio de rasante hacen tope, (osea que notas que algo golpea en los bajos) es muy posible que tus amortiguadores estén para cambiar. 
+Otra pista es la altura visual desde la goma al pase de ruedas de la rueda. Lo normal son unos 3 dedos de altura de serie, tema distinto es si lo has modificado con otro tipo de suspensiones. Si ves que apenas entran 2 dedos entre la goma y la aleta, es síntoma de que a los amortiguadores les queda poco.
+
 ## Luz fallo motor encendida
+No hay nada más típico en un RX8 que la luz de fallo motor encendida. Eso y el chivato de la reserva de combustible. Lo segundo tiene fácil solución, ir a repostar. La luz de fallo motor es otra película…
+Las causas más probables son una mala combustión por causa de bobinas y bujías o el catalizador que está en las últimas.
+Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil para saber el origen de dicho fallo.  Dejamos un par de enlaces para un lector de OBD y una app que te permite leer los errores que lanza la centralita del vehículo. La misma app te da un pequeña explicación de cual es la causa de la avería y además te permite buscar en Google información sobre dicho código de error.
+[OBD AMAZON](https://www.amazon.es/iLC-Inal%C3%A1mbrico-C%C3%B3digo-Escanear-Herramienta/dp/B01NAQ2878/ref=sr_1_1_sspa?keywords=lector+obd2&qid=1656952156&sprefix=lector+OBD%2Caps%2C99&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYQUM0SVVEM0RPTFYmZW5jcnlwdGVkSWQ9QTAyNDc3NzgzVTA5UktWSTVWV1FRJmVuY3J5cHRlZEFkSWQ9QTA0NDMwMDgxQ1A5MjEyRDFUUU8wJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+[EJEMPLO APP MOVIL ANDROID](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)
+
+## Nivel de gases en la itv (CATALIZADOR)
+Uno de los errores más comunes viene de parte del amigo Catalizador, sobre todo si el motor no está bien mantenido y las bujías y bobinas no hacen su labor correctamente, corremos el riesgo de que parte de la mezcla de combustible y aceite pasen sin quemar al catalizador acabando con la vida útil de este. Lo que provocaría que las celdas internas del catalizador se vayan tupiendo y a la larga pierdan capacidad para filtras los gases de escape. Lo que se acaba traduciendo en un aumento del volumen de emisiones de CO y la correspondiente ITV denegada por emisión de gases contaminantes.
+Un sintoma claro de que el catalizador está en las últimas es un olor excesivo a gasolina y aceite en el exterior del coche. Incluso picor de ojos y escozor en la lengua en casos extremos.
+
+## Bujías y Bobinas
+Y los cables de las mismas habría que añadir. Lo que denominamos entre amigos como la triada del mal. La duración habitual es de unos 20,000 – 30,000 kms, y los síntomas claros de que algo no va bien serian:
+-El motor le cuesta arrancar en exceso, tanto en frio como en caliente.
+-Consumo excesivo de combustible.
+-Ralentí inestable y/o petardeos
+-Perdida de potencia y tirones en aceleraciones
+
+Es necesario aclarar que este motor usa un tipo de bujías en particular. Aunque son 2 rotores usa 2 bujías por cada rotor, lo que hace un total de 4, y además son diferentes entre si. 2 bujías tipo T y 2 bujías tipo L. 
+
+Es recomendable cambiar Bobinas, Bujías y cables de las mismas a la vez. Aunque es algo costoso, el resultado es notable. Y el que quiera un coche con mantenimiento económico no se compra un RX8.
+
+Recomendamos instalar el kit de NGK, tanto bujías como bobinas y cables. Adjuntamos fotos.
+
+![image](https://www.lyris.gr/image/cache/data/photos/products/43363/1-700x700_0.jpg)
+![image](https://www.lyris.gr/image/cache/data/photos/products/43362/1-700x700_0.jpg)
+![image](https://user-images.githubusercontent.com/108674720/177195867-69d99016-5d73-4d71-a731-519e18ea342c.png)
+
+## Arranque en frío y caliente
 ## Luz Airbags encendida
 ## Mazda Postventa llamada a revisión
 ### ¿Qué es una llamada a revisión? 
@@ -93,9 +116,6 @@ Si no estás segura de si tu coche está al día de sus campañas de revisión, 
 
 [Llamadas a revisión Mazda](https://www.mazda.es/posventa/llamadas-revision/),
 
-## Nivel de gases en la itv
-## Bujías y Bobinas
-## Arranque en frío y caliente
 
 - Bulleted
 - List
