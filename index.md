@@ -125,14 +125,3 @@ Cuando los equipos de Mazda detectan un problema relacionado con la seguridad, r
 Si no estás seguro de si tu coche está al día de sus campañas de revisión, puedes consultarlo en la siguiente web introduciendo el número de chasis de tu RX8.
 
 [Llamadas a revisión Mazda](https://www.mazda.es/posventa/llamadas-revision/),
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
