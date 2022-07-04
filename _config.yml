@@ -1,4 +1,7 @@
 theme: jekyll-theme-leap-day
 
+name: Jekyll Deploy Action
+uses: jeffreytse/jekyll-deploy-action@v0.3.1
+
 plugins:
   - jekyll-spaceship
