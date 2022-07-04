@@ -34,6 +34,7 @@ Recomendamos el cambio de aceite entre los 5000 y 7000 kilometros.
 El aceite ha de revisarse con el motor frio, antes de arrancar, o en su defecto esperar almenos 5 minutos con el motor parado antes de revisarlo.
 La cala con la que se mide el aceite tiene 2 marcas; minimo y máximo como cualquier otro motor, y además unos puntitos intermedios entre ambos que nos va indicando la cantidad de aceite que le falta al motor. 
 Entre el mínimo y el maximo tenemos una diferencia de 1.7 l. No es recomendable llevarlo al maximo de llenado. Lo ideal es tenerlo siempre a 3/4 por un tema de dilatación y temperaturas del aceite.
+
 ![](https://i2.wp.com/www.rotarypit.com/wp-content/uploads/2016/10/Idemitsu-02-2.jpg)
 
 ## ¿Que gasolina usar?
