@@ -96,7 +96,7 @@ Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil p
 [OBD AMAZON](https://www.amazon.es/iLC-Inal%C3%A1mbrico-C%C3%B3digo-Escanear-Herramienta/dp/B01NAQ2878/ref=sr_1_1_sspa?keywords=lector+obd2&qid=1656952156&sprefix=lector+OBD%2Caps%2C99&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYQUM0SVVEM0RPTFYmZW5jcnlwdGVkSWQ9QTAyNDc3NzgzVTA5UktWSTVWV1FRJmVuY3J5cHRlZEFkSWQ9QTA0NDMwMDgxQ1A5MjEyRDFUUU8wJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 ![](https://m.media-amazon.com/images/I/71H288lJ4pL._AC_SL1500_.jpg)
 
-[EJEMPLO APP MOVIL ANDROID]()
+
 |  Apps para Android |      Links      | 
 | -----------------: | --------------: | 
 |      Car Scanner   |   [Link](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)  | 
