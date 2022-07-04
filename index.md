@@ -34,7 +34,7 @@ Recomendamos el cambio de aceite entre los 5000 y 7000 kilometros.
 El aceite ha de revisarse con el motor frio, antes de arrancar, o en su defecto esperar almenos 5 minutos con el motor parado antes de revisarlo.
 La cala con la que se mide el aceite tiene 2 marcas; minimo y máximo como cualquier otro motor, y además unos puntitos intermedios entre ambos que nos va indicando la cantidad de aceite que le falta al motor. 
 Entre el mínimo y el maximo tenemos una diferencia de 1.7 l. No es recomendable llevarlo al maximo de llenado. Lo ideal es tenerlo siempre a 3/4 por un tema de dilatación y temperaturas del aceite.
-[Link] (https://i2.wp.com/www.rotarypit.com/wp-content/uploads/2016/10/Idemitsu-02-2.jpg?w=1500)
+(Link) [https://i2.wp.com/www.rotarypit.com/wp-content/uploads/2016/10/Idemitsu-02-2.jpg?w=1500]
 
 ## ¿Que gasolina usar?
 Si bien la gasolina recomendada para este motor por motivo de mejor engrase en los rotores, temperatura de funcionamiento y menor indice de residuos es la de 98 octanos; tenemos experiencias de compañeros que usan gasolina de 95 octanos con premezcla y el coche funciona perfectamente.
@@ -54,15 +54,15 @@ En un uso puramente recreativo por carretera o autopista a velocidades contenida
 En un uso tipico combinado 80% carretera, 20% ciudad, desplazamientos cortos, ir a trabajar etc... lo habitual es que el consumo ronde los 12-14l. a los 100 km.
 
 
-
-## Adaptador Sohn y su mantenimiento
-El adaptador Sohn se recomienda usar el mismo tipo de aceite que se usa en el bloque motor porque es posible que ambos aceites se acaben mezclando en el carter.
-
 ## Mantenimiento del aceite diferencial y caja de cambios
 Para la caja de cambios y diferencial recomendamos aceite 75w90 especificación GL4
 
 # Modificaciones
+## Adaptador Sohn y su mantenimiento
+El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor del coche y un adapatador que deriba el suministro de la OMP del carter a dicho deposito externo. De esta manera conseguimos que no se consuma aceite del motor sino aceite del deposito externo, con lo que nos ahorramos estar mirando constantemente el nivel de aceite motor. Además conseguimos que la OMP funcine siempre con aceite limpio e impedimos que peuqeñas impurezas de dicho aceite del carter terminen entorpeciendo su funcionamiento. Se recomienda usar el mismo tipo de aceite en el Sohn del que se usa en el bloque motor.
 
+## Reprogramación ASAP
+##
 # Problemas Frecuentes
 ## Problemas con la dirección asistida
 ## Amortiguadores
