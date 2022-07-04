@@ -96,7 +96,12 @@ Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil p
 [OBD AMAZON](https://www.amazon.es/iLC-Inal%C3%A1mbrico-C%C3%B3digo-Escanear-Herramienta/dp/B01NAQ2878/ref=sr_1_1_sspa?keywords=lector+obd2&qid=1656952156&sprefix=lector+OBD%2Caps%2C99&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYQUM0SVVEM0RPTFYmZW5jcnlwdGVkSWQ9QTAyNDc3NzgzVTA5UktWSTVWV1FRJmVuY3J5cHRlZEFkSWQ9QTA0NDMwMDgxQ1A5MjEyRDFUUU8wJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 ![](https://m.media-amazon.com/images/I/71H288lJ4pL._AC_SL1500_.jpg)
 
-[EJEMPLO APP MOVIL ANDROID](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)
+[EJEMPLO APP MOVIL ANDROID]()
+|  Apps para Android |      Links      | 
+| -----------------: | --------------: | 
+|      Car Scanner   |   [Link](https://play.google.com/store/apps/details?id=com.ovz.carscanner&gl=ES)  | 
+|   Torque (Free)    |   [Link](https://play.google.com/store/apps/details?id=org.prowl.torquefree&hl=es&gl=US) |
+|   Torque (Pro)    |   [Link](https://play.google.com/store/apps/details?id=org.prowl.torque&hl=es&gl=US) |
 
 ## Nivel de gases en la ITV (CATALIZADOR)
 Uno de los errores más comunes viene de parte del amigo Catalizador, sobre todo si el motor no está bien mantenido y las bujías y bobinas no hacen su labor correctamente, corremos el riesgo de que parte de la mezcla de combustible y aceite pasen sin quemar al catalizador acabando con la vida útil de este. Lo que provocaría que las celdas internas del catalizador se vayan tupiendo y a la larga pierdan capacidad para filtras los gases de escape. Lo que se acaba traduciendo en un aumento del volumen de emisiones de CO y la correspondiente ITV denegada por emisión de gases contaminantes.
