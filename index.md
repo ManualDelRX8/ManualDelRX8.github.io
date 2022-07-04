@@ -67,7 +67,7 @@ El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor 
 ## ¿Mi motor no arranca? ¿Motor Ahogado?
 No es algo que ocurra muy hatibualmente, pero si es posible que el motor se ahogue y no arranque. Igual que ocurría antiguamente con motores de 2 tiempos.
 Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o barrer el garage y sin esperar a que coja temperatura de servicio apagamos el motor, es muy posible que la siguiente vez que queramos encenderlo no seamos capaces. ¿Como desahogamos el motor? Más vale una imagen que 1000 palabras.
-[Video de Youtube](https://youtu.be/LR9fGpNLdrw)
+[![Alt text](https://img.youtube.com/vi/LR9fGpNLdrw/0.jpg)](https://www.youtube.com/watch?v=LR9fGpNLdrw)
 
 ## Problemas con la dirección asistida
 Tanto si notas la dirección rigida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehiculo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos electricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor electrico de dirección asistida.
