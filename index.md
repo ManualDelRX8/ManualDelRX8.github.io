@@ -3,7 +3,7 @@
 Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconociento general que hay sobre dicho coche. Por eso decidimos hacer esta web para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
 # Preguntas frecuentes
-##  ¿Es verdad que consume más aceite que una freidora?
+###  ¿Es verdad que consume más aceite que una freidora?
 Efectivamente este coche consume aceite y por diseño debe ser así.
 
 El aceite que se consume se utiliza para crear una fina película lubricante que sirve para sellar las cámaras de combustión, mantener la compresión del motor y evitar el desgaste de los rotores durante su funcionamiento. Este aceite se acaba quemando en las cámaras de combustión y por ello se va consumiendo.
