@@ -62,7 +62,6 @@ Para la caja de cambios y diferencial recomendamos aceite 75w90 especificación 
 El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor del coche y un adapatador que deriba el suministro de la OMP del carter a dicho deposito externo. De esta manera conseguimos que no se consuma aceite del motor sino aceite del deposito externo, con lo que nos ahorramos estar mirando constantemente el nivel de aceite motor. Además conseguimos que la OMP funcine siempre con aceite limpio e impedimos que peuqeñas impurezas de dicho aceite del carter terminen entorpeciendo su funcionamiento. Se recomienda usar el mismo tipo de aceite en el Sohn del que se usa en el bloque motor.
 
 ## Reprogramación ASAP
-##
 
 # Problemas Frecuentes
 ## ¿Mi motor no arranca? ¿Motor Ahogado?
