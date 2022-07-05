@@ -77,7 +77,8 @@ En un uso típico combinado 80% carretera, 20% ciudad, desplazamientos cortos, i
 
 
 ## Diferencial y Caja de Cambios
-Para la caja de cambios y diferencial recomendamos aceite 75w90 especificación GL4
+Para la caja de cambios recomendamos aceite 75w90 especificación GL4
+Para el diferencia se recomienda aceite 75w90 con especificación GL5
 
 # Modificaciones
 
