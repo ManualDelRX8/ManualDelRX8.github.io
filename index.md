@@ -3,9 +3,6 @@
 # Motivación
 Somos un grupo de propietarios del famoso "Mazda RX-8" con la intención de dar luz a los distintos problemas y desconocimiento general que hay sobre dicho coche. Por eso decidimos hacer esta web a titulo informativo, para aclarar los mitos y defectos del RX8 para los que tenemos o estamos pensando en comprar uno.
 
-# Indice
-
-- [Aceite](https://manualdelrx8.github.io/Aceite)
 
 # Preguntas frecuentes
 
@@ -30,6 +27,22 @@ Esta es "la pregunta", la gran pregunta, la que tantas y tantas horas de discusi
 Sobre esto hemos llegado a la conclusión de que no hay un aceite ideal para usar. Según el uso que le des a tu vehículo el aceite que has de usar puede ser uno u otro: 
 Para un uso de calle recomendamos un 10w40 o un 5w30 Semi sintectico de bajo residuo. Ejemplo Exelia 5w30, Motul 6100, Motul 300v o Elf 5w30
 Para uso de Circuito recomendamos IDEMITSU 10W30
+
+**Tablas de aceites válidos para RX-8**
+
+**Dexelia**
+
+**Idemitsu**
+
+|    **Idemitsu**    |     Viscosidad     | Precio 1l. |
+| -----------------: |  --------------:   | ---------: |
+|   Viscosidad media |     10W30          |   17'95€   |
+|   Viscosidad alta  |     20W50          |   18'95€   |
+|   Premix           | Aceite para quemar |   14'95€   |
+
+**Motul**
+
+**Miller Oils**
 
 
 **¿Cada cuando se cambia el aceite?**
