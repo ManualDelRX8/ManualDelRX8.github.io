@@ -20,13 +20,12 @@ Conducción mixta y deportiva ocasional: 1 litro cada 2500-3500 km
 Conducción deportiva frecuente: 1 litro cada 1500-2500 km
 Conducción extrema (exclusivamente racing): 1 litro cada 400-500 km  aprox.
 
-
 **¿Que aceite usar?**
 Esta es "la pregunta", la gran pregunta, la que tantas y tantas horas de discusiones nos ha traído. La caja de Pandora, el cajón de mierda....
 
 Sobre esto hemos llegado a la conclusión de que no hay un aceite ideal para usar. Según el uso que le des a tu vehículo el aceite que has de usar puede ser uno u otro: 
 Para un uso de calle recomendamos un 10w40 o un 5w30 Semi sintectico de bajo residuo. Ejemplo Exelia 5w30, Motul 6100, Motul 300v o Elf 5w30
-Para uso de Circuito recomendamos IDEMITSU 10W30
+Para uso de Circuito recomendamos IDEMITSU 10W30. Si tu motor está bajo de compresión es recomendable usar un aceite un poco más viscoso tipo 20w50.
 
 **Tablas de aceites válidos para RX-8**
 
@@ -101,13 +100,6 @@ Por ejemplo, si arrancamos el motor en frio, lo movemos 20 metros para lavarlo o
 
 ![](https://www.youtube.com/watch?v=LR9fGpNLdrw)
 
-**Problemas con la dirección asistida**
-Tanto si notas la dirección rígida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehículo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos eléctricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor eléctrico de dirección asistida.
-
-**Amortiguadores**
-Es común en estos coches que los amortiguadores traseros se estropeen más que los delanteros. Si notas que el coche de atrás se hunde, sobre todo  al meter gente atrás, y que en curvas rápidas con baches o cambio de rasante hacen tope, (osea que notas que algo golpea en los bajos) es muy posible que tus amortiguadores estén para cambiar. 
-Otra pista es la altura visual desde la goma al pase de ruedas de la rueda. Lo normal son unos 3 dedos de altura de serie, tema distinto es si lo has modificado con otro tipo de suspensiones. Si ves que apenas entran 2 dedos entre la goma y la aleta, es síntoma de que a los amortiguadores les queda poco.
-
 **Luz fallo motor encendida**
 No hay nada más típico en un RX8 que la luz de fallo motor encendida. Eso y el chivato de la reserva de combustible. Lo segundo tiene fácil solución, ir a repostar. La luz de fallo motor es otra película…
 Las causas más probables son una mala combustión por causa de bobinas y bujías o el catalizador que está en las últimas.
@@ -123,9 +115,9 @@ Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil p
 |   Torque (Free)    |   [Link](https://play.google.com/store/apps/details?id=org.prowl.torquefree&hl=es&gl=US) |
 |   Torque (Pro)    |   [Link](https://play.google.com/store/apps/details?id=org.prowl.torque&hl=es&gl=US) |
 
-**Nivel de gases en la ITV (CATALIZADOR)**
-Uno de los errores más comunes viene de parte del amigo Catalizador, sobre todo si el motor no está bien mantenido y las bujías y bobinas no hacen su labor correctamente, corremos el riesgo de que parte de la mezcla de combustible y aceite pasen sin quemar al catalizador acabando con la vida útil de este. Lo que provocaría que las celdas internas del catalizador se vayan tupiendo y a la larga pierdan capacidad para filtras los gases de escape. Lo que se acaba traduciendo en un aumento del volumen de emisiones de CO y la correspondiente ITV denegada por emisión de gases contaminantes.
-Un síntoma claro de que el catalizador está en las últimas es un olor excesivo a gasolina y aceite en el exterior del coche. Incluso picor de ojos y escozor en la lengua en casos extremos.
+**Arranque en frío y caliente**
+Los primeros sintomas de que tu motor está bajo de compesión empiezan siendo problemas para encerder cuando el motor esta caliente.
+Con el motor frío si hay problemas de encendido tendríamos que descartar primero bobinas, bujias y cableado; e incluso el motor de arranque, sobre todo si tu unidad en un R1. Es aconsejable montar el motor de arranque de un R3, dan 2.3kw de potencia de arranque frente a 1.5 kw del R1 y unas 100 rpm más de giro. La diferencia de arranque es muy notable.
 
 **Bujías y Bobinas**
 Y los cables de las mismas habría que añadir. Lo que denominamos entre amigos como la triada del mal. La duración habitual es de unos 20,000 – 30,000 kms, y los síntomas claros de que algo no va bien serian:
@@ -144,12 +136,37 @@ Recomendamos instalar el kit de NGK, tanto bujías como bobinas y cables. Adjunt
 ![image](https://www.lyris.gr/image/cache/data/photos/products/43362/1-700x700_0.jpg)
 ![image](https://user-images.githubusercontent.com/108674720/177195867-69d99016-5d73-4d71-a731-519e18ea342c.png)
 
-**Arranque en frío y caliente**
+**Motor con baja compresión**
+¿Como comprobar si tu motor está bajo de compresión?
+Cabe decir que si vas a comprar un RX8 y no confias al 100% en el estado del vehiculo o en el que te lo quiere vender, esta prueba es primordial para asegurarte de la viabilidad del motor.
+
+![](https://www.youtube.com/watch?v=iXZU7KKW6nc)
+Esta prueba de compresión la puedes realizar en el servicio oficial de Mazda o en algún taller experimentado de confianza.
+
+**Problemas con la dirección asistida**
+Tanto si notas la dirección rígida, como si hace pequeños saltos o si se enciendo el testigo de dirección asistida en el cuadro del vehículo... Un fallo bastante común en este coche se debe a unos conectores que se encuentran situados debajo de la botella de expansión del refrigerante, justo encima del radiador. Suele haber pequeñas fugas fruto de las altas temperaturas que alcanza el refrigerante, que acaban mojando dichos conectores, ensuciandolos y comprometiendo su conectividad. Tan sencillo como soltar dichos conectores, limpiarlos, soplarlos y aplicar un spray especial para contactos eléctricos soluciona el problema en la mayoría de casos. Si el problema persiste comprueba cremallera de dirección asistida o motor eléctrico de dirección asistida.
+
+**Amortiguadores**
+Es común en estos coches que los amortiguadores traseros se estropeen más que los delanteros. Si notas que el coche de atrás se hunde, sobre todo  al meter gente atrás, y que en curvas rápidas con baches o cambio de rasante hacen tope, (osea que notas que algo golpea en los bajos) es muy posible que tus amortiguadores estén para cambiar. 
+Otra pista es la altura visual desde la goma al pase de ruedas de la rueda. Lo normal son unos 3 dedos de altura de serie, tema distinto es si lo has modificado con otro tipo de suspensiones. Si ves que apenas entran 2 dedos entre la goma y la aleta, es síntoma de que a los amortiguadores les queda poco.
+
+**Nivel de gases en la ITV (CATALIZADOR)**
+Uno de los errores más comunes viene de parte del amigo Catalizador, sobre todo si el motor no está bien mantenido y las bujías y bobinas no hacen su labor correctamente, corremos el riesgo de que parte de la mezcla de combustible y aceite pasen sin quemar al catalizador acabando con la vida útil de este. Lo que provocaría que las celdas internas del catalizador se vayan tupiendo y a la larga pierdan capacidad para filtras los gases de escape. Lo que se acaba traduciendo en un aumento del volumen de emisiones de CO y la correspondiente ITV denegada por emisión de gases contaminantes.
+Un síntoma claro de que el catalizador está en las últimas es un olor excesivo a gasolina y aceite en el exterior del coche. Incluso picor de ojos y escozor en la lengua en casos extremos.
+
 **Luz Airbags encendida**
+Hay dos posibles causas de esta avería:
+
+La primera serían los conectores que van debajo de los asientos, tanto de piloto como el copiloto. La solución es sencilla, soltar los conectores, limpiarlos, soplarlos y añadir un spray para favorecer los contactos.
+
+La segunda tiene que ver con los airbags del volante y del salpicadero del copiloto. Hay una campaña en la Mazda que los cambian gratuitamente puesto que se han percatado que es un fallo de fabricación.
 
 ## Mazda Postventa llamada a revisión
 **¿Qué es una llamada a revisión?**
+
 Cuando los equipos de Mazda detectan un problema relacionado con la seguridad, regulaciones o emisiones en alguno de sus productos, se activa una llamada a revisión de Mazda. Los clientes son notificados por correo certificado tan rápido como se tiene conocimiento del problema para que puedan acudir cuanto antes, y únicamente, a un Servicio Autorizado Mazda a realizar la reparación correspondiente de forma totalmente gratuita.
+
+Algunas de las campañas más comunes son los Airbags, Juntas de la bomba de Gasolina en el deposito, Trapecios de suspensión... etc..
 
 Si no estás seguro de si tu coche está al día de sus campañas de revisión, puedes consultarlo en la siguiente web introduciendo el número de chasis de tu RX8.
 
