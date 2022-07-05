@@ -10,7 +10,7 @@ Si bien es algo que deberíamos hacer con cualquier vehículo, en el Rx8 es de v
     • Calentar progresivamente el motor antes de usarlo fuerte
           - Lo ideal es no pasar de 3.500 rpm hasta alcanzar la temperatura de servicio.
     • Enfriar el motor bien antes de pararlo
-          - Conduce relajadamente unos 5min antes de detenerte y debalo almenos 2 min a ralentí antes de apagarlo.
+          - Conduce relajadamente unos 5min antes de detenerte y dejalo almenos 2 min a ralentí antes de apagarlo.
     • Utilizar el aceite de motor apropiado y mantenerlo cerca del nivel máximo
     • Utilizar gasolina de 98 octanos o 95 con Premix.
     • Asegurar un buen encendido de la mezcla combustile
