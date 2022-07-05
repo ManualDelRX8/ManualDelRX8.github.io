@@ -152,7 +152,7 @@ Radio Pioneer ejemplo:
 [Link Norauto](https://www.norauto.es/p/autoradio-pioneer-dmh-a340dab-2278092.html?utm_medium=cpc&utm_source=google&utm_campaign=ES%20-%20Shopping%20-%20Google%20-%20Equipment%20%28Smart%29%20-%20CSS&utm_content=Equipment%20CSS&utm_term&s_kwcid=AL%2111721%213%21539941166347%21%21%21u%211636896195035%21&gclsrc=ds)
 
 Video Explicación instalación
-![](https://www.youtube.com/watch?v=oUT-Q20abUM
+![](https://www.youtube.com/watch?v=oUT-Q20abUM)
 
 # Problemas Frecuentes
 
