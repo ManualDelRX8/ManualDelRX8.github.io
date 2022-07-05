@@ -114,7 +114,7 @@ Para el diferencia se recomienda aceite 75w90 con especificación GL5.
 
 # Modificaciones
 
-**Adaptador Sohn y su mantenimiento**
+**Adaptador Sohn**
 El adaptador Sohn consta de un deposito de aceite adicional al aceite del motor del coche y un adaptador que deriva el suministro de la OMP del cárter a dicho deposito externo. De esta manera conseguimos que no se consuma aceite del motor sino aceite del deposito externo, con lo que nos ahorramos estar mirando constantemente el nivel de aceite motor. Además conseguimos que la OMP funcione siempre con aceite limpio e impedimos que pequeñas impurezas de dicho aceite del cárter terminen entorpeciendo su funcionamiento. Se recomienda usar el mismo tipo de aceite en el Sohn del que se usa en el bloque motor.
 
 ![](https://www.youtube.com/watch?v=sNYOmLX3jAQ)
@@ -124,6 +124,19 @@ Cuando hablamos de reprogramación todos pensamos en quitar más caballos de pot
 No olvides darle un like y seguirlo para más video. Grande Andrés!
 
 ![](https://www.youtube.com/watch?v=yXYx2qZ8iJ8)
+
+**Entrada auxiliar de auido**
+Podemos instalar un adaptador a nuestra radio de serie para conectar un movil, usb o carjeta SD y utilizar una toma auxiliar para reproducir nuestra musica favorita,Spotify, Youtube... etc.
+
+Primero de todo tenemos que tener en cuenta que hay varias versiones de firware de la radio del coche. A continuación dejamos unos videos donde se explica como comprobar la versión de nuestro equipo de sonido y los distintos tipos de adaptadores que podemos usar según dicha version.
+
+![](https://youtu.be/oUT-Q20abUM)
+
+![](https://youtu.be/J-mrSMS6ybo)
+
+Tenemos también una opción más económica, que sería utilizar un adaptar de mechero Fm, que basicamente usa una frecuencia FM para enviar el sonido a nuestra radio. Se conecta a través de Bluetooh al telefono movil, puede usarse como manos libres y tiene además puerto USB para recargar el movil o pinchar un USB desde donde reproducir nuestros MP3. Adjunto un ejemplo:
+![](https://m.media-amazon.com/images/I/613QAtkgxpL._AC_SX425_.jpg)
+![Amazon](https://www.amazon.es/LENCENT-Transmisor-Bluetooth-Inal%C3%A1mbrico-Reproductor/dp/B07VFT4D6B/ref=asc_df_B07VFT4D6B/?tag=googshopes-21&linkCode=df0&hvadid=300861206315&hvpos=&hvnetw=g&hvrand=3688705526917389886&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005482&hvtargid=pla-830562513034&psc=1)
 
 # Problemas Frecuentes
 
