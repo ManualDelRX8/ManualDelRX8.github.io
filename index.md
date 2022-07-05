@@ -130,9 +130,9 @@ Podemos instalar un adaptador a nuestra radio de serie para conectar un movil, u
 
 Primero de todo tenemos que tener en cuenta que hay varias versiones de firware de la radio del coche. A continuación dejamos unos videos donde se explica como comprobar la versión de nuestro equipo de sonido y los distintos tipos de adaptadores que podemos usar según dicha version.
 
-![](https://youtu.be/oUT-Q20abUM)
+![](https://www.youtube.com/watch?v=J-mrSMS6ybo)
 
-![](https://youtu.be/J-mrSMS6ybo)
+![](https://www.youtube.com/watch?v=oUT-Q20abUM)
 
 Tenemos también una opción más económica, que sería utilizar un adaptar de mechero Fm, que basicamente usa una frecuencia FM para enviar el sonido a nuestra radio. Se conecta a través de Bluetooh al telefono movil, puede usarse como manos libres y tiene además puerto USB para recargar el movil o pinchar un USB desde donde reproducir nuestros MP3. Adjunto un ejemplo:
 ![](https://m.media-amazon.com/images/I/613QAtkgxpL._AC_SX425_.jpg)
@@ -152,7 +152,7 @@ Radio Pioneer ejemplo:
 [Link Norauto](https://www.norauto.es/p/autoradio-pioneer-dmh-a340dab-2278092.html?utm_medium=cpc&utm_source=google&utm_campaign=ES%20-%20Shopping%20-%20Google%20-%20Equipment%20%28Smart%29%20-%20CSS&utm_content=Equipment%20CSS&utm_term&s_kwcid=AL%2111721%213%21539941166347%21%21%21u%211636896195035%21&gclsrc=ds)
 
 Video Explicación instalación
-![](https://youtu.be/PTob_I-40WA)
+![](https://www.youtube.com/watch?v=oUT-Q20abUM
 
 # Problemas Frecuentes
 
