@@ -138,6 +138,20 @@ Tenemos también una opción más económica, que sería utilizar un adaptar de 
 ![](https://m.media-amazon.com/images/I/613QAtkgxpL._AC_SX425_.jpg)
 [Link Amazon](https://www.amazon.es/LENCENT-Transmisor-Bluetooth-Inal%C3%A1mbrico-Reproductor/dp/B07VFT4D6B/ref=asc_df_B07VFT4D6B/?tag=googshopes-21&linkCode=df0&hvadid=300861206315&hvpos=&hvnetw=g&hvrand=3688705526917389886&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005482&hvtargid=pla-830562513034&psc=1)
 
+**Pantall 2 DIN**
+Si lo prefieres puedes retirar la radio original del RX8 y poner una 2 DIN con todo integrado y totalmente compatible con los mandos del volante, climatizador y pantalla de temperatura. Para ello necesitamos un adaptador que se llama Metra Kit, un marco de plastico para integrar la nueva 2 DIN y que quede como si fuese de origen y por supuesto, una Radio 2 DIN. Aunque esta última puedes elegir la que más te guste, por motivos de compatibilidad te recomendamos una Piooner.
+
+**Kit Metra o Metra Kit**
+Hay que destacar que según tengas un R1 o R2 tu radio varía ligeramente en estetica y por lo tanto has de buscar un Kit Metra que se adapte a tu salpicadero. Adjuntamos foto ejemplo:
+![](https://m.media-amazon.com/images/I/61ZF0DXPwgL._AC_SX679_.jpg)
+![](https://m.media-amazon.com/images/I/417+df6sGQS._AC_.jpg)
+El Kit metra ronda los 180-220€, según versión.
+
+Radio Piooner ejemplo:
+![](https://s1.medias-norauto.es/images_produits/900x900/4988028479106_1.jpg)
+[Link Norauto](https://www.norauto.es/p/autoradio-pioneer-dmh-a340dab-2278092.html?utm_medium=cpc&utm_source=google&utm_campaign=ES%20-%20Shopping%20-%20Google%20-%20Equipment%20%28Smart%29%20-%20CSS&utm_content=Equipment%20CSS&utm_term&s_kwcid=AL%2111721%213%21539941166347%21%21%21u%211636896195035%21&gclsrc=ds)
+
+
 # Problemas Frecuentes
 
 **¿Mi motor no arranca? ¿Motor Ahogado?**
