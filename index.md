@@ -136,7 +136,7 @@ Primero de todo tenemos que tener en cuenta que hay varias versiones de firware 
 
 Tenemos también una opción más económica, que sería utilizar un adaptar de mechero Fm, que basicamente usa una frecuencia FM para enviar el sonido a nuestra radio. Se conecta a través de Bluetooh al telefono movil, puede usarse como manos libres y tiene además puerto USB para recargar el movil o pinchar un USB desde donde reproducir nuestros MP3. Adjunto un ejemplo:
 ![](https://m.media-amazon.com/images/I/613QAtkgxpL._AC_SX425_.jpg)
-[Amazon](https://www.amazon.es/LENCENT-Transmisor-Bluetooth-Inal%C3%A1mbrico-Reproductor/dp/B07VFT4D6B/ref=asc_df_B07VFT4D6B/?tag=googshopes-21&linkCode=df0&hvadid=300861206315&hvpos=&hvnetw=g&hvrand=3688705526917389886&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005482&hvtargid=pla-830562513034&psc=1)
+[Link Amazon](https://www.amazon.es/LENCENT-Transmisor-Bluetooth-Inal%C3%A1mbrico-Reproductor/dp/B07VFT4D6B/ref=asc_df_B07VFT4D6B/?tag=googshopes-21&linkCode=df0&hvadid=300861206315&hvpos=&hvnetw=g&hvrand=3688705526917389886&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005482&hvtargid=pla-830562513034&psc=1)
 
 # Problemas Frecuentes
 
