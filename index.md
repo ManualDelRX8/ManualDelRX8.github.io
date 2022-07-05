@@ -64,7 +64,7 @@ Para uso de Circuito recomendamos IDEMITSU 10W30. Si tu motor está bajo de comp
 Precios orientativos a Julio de 2022 según promociones y descuentos.
 
 **¿Cada cuando se cambia el aceite?**
-Recomendamos el cambio de aceite entre los 5000 y 7000 kilómetros.
+Recomendamos el cambio de aceite entre los 5000 y 7000 kilómetros. Es también importante cambiar el filtro de aceite cada vez que se cambie el aceite motor.
 
 
 **¿Como revisamos el nivel de aceite?**
