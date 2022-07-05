@@ -76,8 +76,8 @@ En un uso típico combinado 80% carretera, 20% ciudad, desplazamientos cortos, i
 
 
 ## Diferencial y Caja de Cambios
-Para la caja de cambios recomendamos aceite 75w90 especificación GL4
-Para el diferencia se recomienda aceite 75w90 con especificación GL5
+Para la caja de cambios recomendamos aceite 75w90 especificación GL4.
+Para el diferencia se recomienda aceite 75w90 con especificación GL5.
 
 # Modificaciones
 
@@ -117,7 +117,7 @@ Lo ideal sería escanear con un lector de OBD y una app en tu teléfono móvil p
 
 **Arranque en frío y caliente**
 Los primeros sintomas de que tu motor está bajo de compesión empiezan siendo problemas para encerder cuando el motor esta caliente.
-Con el motor frío si hay problemas de encendido tendríamos que descartar primero bobinas, bujias y cableado; e incluso el motor de arranque, sobre todo si tu unidad en un R1. Es aconsejable montar el motor de arranque de un R3, dan 2.3kw de potencia de arranque frente a 1.5 kw del R1 y unas 100 rpm más de giro. La diferencia de arranque es muy notable.
+Con el motor frío si hay problemas de encendido tendríamos que descartar primero bobinas, bujias y cableado; e incluso el motor de arranque, sobre todo si tu unidad en un R1. Es aconsejable montar el motor de arranque de un R3, dan 2.3kw de potencia de arranque frente a 1.5 kw del R1 y unas 100 rpm más de giro. La diferencia de arranque es muy notable, incluso con el motor caliente.
 
 **Bujías y Bobinas**
 Y los cables de las mismas habría que añadir. Lo que denominamos entre amigos como la triada del mal. La duración habitual es de unos 20,000 – 30,000 kms, y los síntomas claros de que algo no va bien serian:
