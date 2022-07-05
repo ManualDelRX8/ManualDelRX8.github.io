@@ -11,7 +11,7 @@ Para uso de Circuito recomendamos IDEMITSU 10W30`
 
 ## Idemitsu
 
-|    **Idemitsu**    |     Viscosidad     | Precio     |
+|    **Idemitsu**    |     Viscosidad     | Precio 1l. |
 | -----------------: |  --------------:   | ---------: |
 |   Viscosidad media |     10W30          |   17'95€   |
 |   Viscosidad alta  |     20W50          |   18'95€   |
