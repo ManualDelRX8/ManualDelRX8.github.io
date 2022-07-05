@@ -43,7 +43,7 @@ Entre el mínimo y el máximo tenemos una diferencia de 1.7 l. No es recomendabl
 
 ![](https://i2.wp.com/www.rotarypit.com/wp-content/uploads/2016/10/Idemitsu-02-2.jpg)
 
-## Gasolina##
+## Gasolina
 
 **¿Que gasolina usar?**
 Si bien la gasolina recomendada para este motor por motivo de mejor engrase en los rotores, temperatura de funcionamiento y menor indice de residuos es la de 98 octanos; tenemos experiencias de compañeros que usan gasolina de 95 octanos con pre-mezcla y el coche funciona perfectamente.
