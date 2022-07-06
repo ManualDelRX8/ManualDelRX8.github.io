@@ -109,8 +109,13 @@ En un uso típico combinado 80% carretera, 20% ciudad, desplazamientos cortos, i
 
 
 ## Diferencial y Caja de Cambios
-Para la caja de cambios recomendamos aceite 75w90 especificación GL4.
-Para el diferencia se recomienda aceite 75w90 con especificación GL5.
+Sobre el diferencial no hay consideraciones importantes a las que tener en cuenta, salvo hacer un correcto mantenimiento y poner un buen aceite cuando toque. No es algo que de grandes problemas. Para el diferencia se recomienda aceite 75w90 con especificación GL5.
+
+La Caja de cambios es otro cantar, especialmente la de 6 velocidades. Si conduces tranquilo no notarás nada especial, pero si elevas el regimen de giro es común notar que rascan ciertas velocidades tanto al subir como al reducir, y también hay otros momentos que parece que estas empujando la palanca de cambios contra un muro y las marchas no entran ni a tiros. Cambiar el aceite por uno bueno corrige bastante todos estos sintomas. Para la caja de cambios recomendamos aceite 75w90 especificación GL4.
+
+Pero si sueles utilizar el coche a altas rpm, o si usas tu vehiculo para Track Day, te recomendamos además que instales un protectos de sincronizados. Es económico y fácil de instalar, y ayudaras a proteger y prolongar la vida util de tu caja de cambios. Video de como se instala...
+
+![](https://www.youtube.com/watch?v=Nlf1Ixd8JfA)
 
 # Modificaciones
 
