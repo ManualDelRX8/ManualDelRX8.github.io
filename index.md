@@ -38,10 +38,14 @@ Conducción extrema (exclusivamente racing): 1 litro cada 400-500 km  aprox.
 Esta es "la pregunta", la gran pregunta, la que tantas y tantas horas de discusiones nos ha traído. La caja de Pandora, el cajón de mierda....
 
 Sobre esto hemos llegado a la conclusión de que no hay un aceite ideal para usar. Según el uso que le des a tu vehículo el aceite que has de usar puede ser uno u otro: 
-Para un uso de calle recomendamos un 10w40 o un 5w30 Semi sintectico de bajo residuo. Ejemplo Exelia 5w30, Motul 6100, Motul 300v o Elf 5w30
+Para un uso de calle recomendamos un 10w40 o un 5w30 Semi sintectico de bajo residuo. Ejemplo Dexelia 5w30, Motul 6100, Motul 300v o Elf 5w30
 Para uso de Circuito recomendamos IDEMITSU 10W30. Si tu motor está bajo de compresión es recomendable usar un aceite un poco más viscoso tipo 20w50.
 
 **Tablas de aceites válidos para RX-8**
+
+Hay dos categorías diferentes de aceites que recomendamos para este motor según el uso principal que se le vaya a exigir:
+
+**Para uso principamente de calle**
 
 **Dexelia**
 
@@ -61,6 +65,9 @@ Para uso de Circuito recomendamos IDEMITSU 10W30. Si tu motor está bajo de comp
 | -----------------: |  ----------------: | -----------: |
 |   Viscosidad media |     5W30           | de 30 a 35€  |
 
+
+**Para uso un poco más intensivo o de Circuito**
+
 **Idemitsu**
 
 |    **Idemitsu**    |     Viscosidad     |  Precio 1l.  |
@@ -71,14 +78,17 @@ Para uso de Circuito recomendamos IDEMITSU 10W30. Si tu motor está bajo de comp
 
 **Motul**
 
-| **6100 Synergie+** |     Viscosidad     | Precio 1l.   |
+|   **Motul**        |     Viscosidad     | Precio 1l.   |
 | -----------------: |  ----------------: | -----------: |
-|   Viscosidad media |     10W40          | de 22 a 28€  |
+| **6100 Synergie+** |     10W40          | de 22 a 28€  |
+|     **300V**       |      5w30          | de 12 a 14€  |
 
 Precios orientativos a Julio de 2022 según promociones y descuentos.
 
 **¿Cada cuando se cambia el aceite?**
-Recomendamos el cambio de aceite entre los 5000 y 7000 kilómetros. Es también importante cambiar el filtro de aceite cada vez que se cambie el aceite motor.
+Recomendamos el cambio de aceite entre los 5000 y 7000 kilómetros para un uso normal de calle. Es también importante cambiar el filtro de aceite cada vez que se cambie el aceite motor.
+
+Si pensamos en un uso intensivo de circuito es recomendable reducir los kms entre cada cambio según la exigencia, ya sea exporadica, habitual o exclusivamente para circuito.
 
 
 **¿Como revisamos el nivel de aceite?**
@@ -110,10 +120,15 @@ En un uso típico combinado 80% carretera, 20% ciudad, desplazamientos cortos, i
 
 ## Diferencial y Caja de Cambios
 Sobre el diferencial no hay consideraciones importantes a las que tener en cuenta, salvo hacer un correcto mantenimiento y poner un buen aceite cuando toque. No es algo que de grandes problemas. Para el diferencia se recomienda aceite 75w90 con especificación GL5.
+El aceite recomendado es **RED Line MT-90** y se necesitan 1.3 Litros. 
 
 La Caja de cambios es otro cantar, especialmente la de 6 velocidades. Si conduces tranquilo no notarás nada especial, pero si elevas el regimen de giro es común notar que rascan ciertas velocidades tanto al subir como al reducir, y también hay otros momentos que parece que estas empujando la palanca de cambios contra un muro y las marchas no entran ni a tiros. Cambiar el aceite por uno bueno corrige bastante todos estos sintomas. Para la caja de cambios recomendamos aceite 75w90 especificación GL4.
+El aceite recomendado es **RED Line MT-90** y se necesitan 1.7 Litros.
 
-Pero si sueles utilizar el coche a altas rpm, o si usas tu vehiculo para Track Day, te recomendamos además que instales un protectos de sincronizados. Es económico y fácil de instalar, y ayudaras a proteger y prolongar la vida util de tu caja de cambios. Video de como se instala...
+Aunque el aceite para ambos sea de la misma marcha y Sae, no equivocarse en la especificación especifica: **GL5** Diferencial y **GL4** Caja de cambios
+El aceite se vende en botes de 0,9 litros y el precio ronda los 25-30€ bote.
+
+Si sueles utilizar el coche a altas rpm, o si usas tu vehiculo para Track Day, te recomendamos además que instales un protectos de sincronizados. Es económico y fácil de instalar, y ayudaras a proteger y prolongar la vida util de tu caja de cambios. Video de como se instala...
 
 ![](https://www.youtube.com/watch?v=Nlf1Ixd8JfA)
 
@@ -194,6 +209,10 @@ Y los cables de las mismas habría que añadir. Lo que denominamos entre amigos 
 -Perdida de potencia y tirones en aceleraciones
 
 Es necesario aclarar que este motor usa un tipo de bujías en particular. Aunque son 2 rotores usa 2 bujías por cada rotor, lo que hace un total de 4, y además son diferentes entre si. 2 bujías tipo T y 2 bujías tipo L. 
+
+Aquí tenemos un pequeño diagrama del orden de instalación de bobinas, bujias y cableado.
+![](https://imagizer.imageshack.com/img923/4659/HSK7Y2.jpg)
+Donde tenemos F(parte delantera del motor) R(parte trasera) L(bujia tipo L) T(bujía tipo T)
 
 Es recomendable cambiar Bobinas, Bujías y cables de las mismas a la vez. Aunque es algo costoso, el resultado es notable. Y el que quiera un coche con mantenimiento económico no se compra un RX8.
 
