@@ -212,7 +212,7 @@ Es necesario aclarar que este motor usa un tipo de bujías en particular. Aunque
 
 Aquí tenemos un pequeño diagrama del orden de instalación de bobinas, bujias y cableado.
 ![](https://imagizer.imageshack.com/img923/4659/HSK7Y2.jpg)
-Donde tenemos F(parte delantera del motor) R(parte trasera) L(bujia tipo L) T(bujía tipo T)
+Donde tenemos **F**(parte delantera del motor) **R**(parte trasera) **L**(bujia tipo L) **T**(bujía tipo T)
 
 Es recomendable cambiar Bobinas, Bujías y cables de las mismas a la vez. Aunque es algo costoso, el resultado es notable. Y el que quiera un coche con mantenimiento económico no se compra un RX8.
 
